@@ -8,5 +8,6 @@ Contains:
 
 Run:
 We use pycharm software to run and build the project.
+Please follow the prompt after running the Project.py file
 
 Thank you 
